@@ -1,0 +1,23 @@
+#playlist,audio{background:#FF0000;width:400px;padding:10px;}
+.active a{color:#0BFFF5;text-decoration:none;}
+li a{color:#eeeedd;background:#000000;padding:5px;display:block;}
+li a:hover{text-decoration:none;}
+
+.player {border-color: crimson;
+         align-content: center;
+
+}
+
+body {background-image: url("images/hizaki.jpg");
+      background-repeat:no-repeat;
+      background-size: cover;
+      font-family: sans-serif;
+
+
+}
+
+h1 {
+    color: #FF0000;
+    border: 10px;
+    border-color: black;
+}
